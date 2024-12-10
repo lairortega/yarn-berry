@@ -26,7 +26,7 @@
     "@yarnpkg/plugin-interactive-tools": "workspace:^",
     "@yarnpkg/plugin-link": "workspace:^",
     "@yarnpkg/plugin-nm": "workspace:^",
-    "@yarnpkg/plugin-npm": "workspace:^",
+    "@yarnpkg/plugin-npm": "2.1.0",
     "@yarnpkg/plugin-npm-cli": "workspace:^",
     "@yarnpkg/plugin-pack": "workspace:^",
     "@yarnpkg/plugin-patch": "workspace:^",
